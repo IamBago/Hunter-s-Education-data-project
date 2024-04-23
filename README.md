@@ -8,3 +8,5 @@ I hypothesize that race will show to be impactful to people's confidence in educ
 
 Alt theory 
  - Racial captialism - education is a racially capitalist system which takes advantage of people of color. White pople who are less affected by this racist captialism would contintue to hold high confidence standards. Black people or any other racial minority Who are being exploited by this machine would be less confident in it. 
+
+- To download the codebook follow this link: https://gss.norc.org/Documents/codebook/GSS%202022%20Codebook.pdf
