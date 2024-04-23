@@ -1,0 +1,2 @@
+# Hunter-s-Education-data-project
+This Project will analyze GSS data from the 2022 panel. The project focuses on variables related to race and ecucation and seeks to examine or find the racial inequalities that exist within Amercian educational structures. It is important to note that the 2022 GSS panel data is very limited in terms of it's inclusion of Black particiants and respondents. Therefore, the findings from this research project should not be made generalizable to groups of Black people in American educaitonal institutions.
